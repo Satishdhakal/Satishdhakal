@@ -6,4 +6,4 @@
 
 💞️ I’m looking to collaborate on a hobby project
 
-📫 How to reach me:dhakalsatish2004@gmail.com
+📫 How to reach me: dhakalsatish2004@gmail.com
