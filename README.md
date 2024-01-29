@@ -3,10 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Satish, a React developer 👨‍💻 </div>  
-  
-
-- 🔭 I’m currently working on [QuizNepal](https://quiznepal.netlify.app/)  
+### <div align="center">I'm Satish, a NextJS developer 👨‍💻 </div>  
+   
   
 
 - 🌱 I’m currently learning Next.js and typescript  
