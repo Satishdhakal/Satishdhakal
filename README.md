@@ -3,14 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Satish, a NextJS developer 👨‍💻 </div>  
-   
-  
-
-- 🌱 I’m currently learning Next.js and typescript  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+### <div align="center">I'm Satish and I like solving problems! </div>  
   
 
 
