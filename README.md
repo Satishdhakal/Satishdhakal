@@ -1,22 +1,7 @@
 
-### <div align="center">I'm Satish and I like solving problems! </div>  
-  
-
-
-  
+### <div align="center">I'm Satish and I like solving problems! </div>   
 
 <br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-
-
-<br/>  
-
 
 ## Connect with me  
 <div align="center">
