@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://i.pinimg.com/originals/0c/64/9a/0c649a17ec1e5f5ca340248b4ef4e4be.gif](https://www.reddit.com/r/github/comments/hsg1yj/spinning_doughnut_in_ascii_c/" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Satish and I like solving problems! </div>  
   
